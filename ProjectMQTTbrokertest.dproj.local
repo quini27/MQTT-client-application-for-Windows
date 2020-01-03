@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/25 15:05:27.000.135,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/25 15:05:27.000.430,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/09/25 15:05:39.000.096,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2019/10/12 21:44:30.000.768,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/10/12 21:47:53.000.075,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/12/27 18:34:54.000.317,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2019/12/27 18:51:53.000.305,C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\fernando\projdelphi\provas rad studio\web test\MQTTBroker\VCLBrokertest\UnitMQTT.pas</Transaction>
+    <Transaction>2019/12/27 18:51:53.000.305,C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\fernando\projdelphi\provas rad studio\web test\MQTTBroker\VCLBrokertest\UnitMQTT.dfm</Transaction>
+    <Transaction>2019/12/27 18:52:08.000.979,C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\fernando\projdelphi\provas rad studio\web test\MQTTBroker\VCLBrokertest\ProjectMQTTbrokertest.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
